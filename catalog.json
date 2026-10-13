@@ -1,0 +1,2822 @@
+[
+  {
+    "description": "An announcing angel on blue clouds holding a curled pale scroll. Part of the Shepherds Annunciation floral ornaments set.",
+    "categories": [
+      "humans",
+      "fantasy",
+      "ribbons"
+    ],
+    "subjects": [
+      "angel",
+      "cloud",
+      "scroll",
+      "wing"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "cream",
+      "gray",
+      "blue"
+    ],
+    "composition": "single-figure",
+    "name": "announcing-angel-with-clouds-and-curled-blank-scroll",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2014-22-a",
+    "png": "png/announcing-angel-with-clouds-and-curled-blank-scroll.png",
+    "webp": "webp/announcing-angel-with-clouds-and-curled-blank-scroll.webp",
+    "width": 1549,
+    "height": 861,
+    "png_bytes": 1732995,
+    "webp_bytes": 1239618,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/announcing-angel-with-clouds-and-curled-blank-scroll.png",
+        "webp": "webp/128/announcing-angel-with-clouds-and-curled-blank-scroll.webp",
+        "width": 128,
+        "height": 71,
+        "png_bytes": 18942,
+        "webp_bytes": 14808
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/announcing-angel-with-clouds-and-curled-blank-scroll.png",
+        "webp": "webp/256/announcing-angel-with-clouds-and-curled-blank-scroll.webp",
+        "width": 256,
+        "height": 142,
+        "png_bytes": 63793,
+        "webp_bytes": 47162
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/announcing-angel-with-clouds-and-curled-blank-scroll.png",
+        "webp": "webp/512/announcing-angel-with-clouds-and-curled-blank-scroll.webp",
+        "width": 512,
+        "height": 285,
+        "png_bytes": 224714,
+        "webp_bytes": 159774
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/announcing-angel-with-clouds-and-curled-blank-scroll.png",
+        "webp": "webp/768/announcing-angel-with-clouds-and-curled-blank-scroll.webp",
+        "width": 768,
+        "height": 427,
+        "png_bytes": 481236,
+        "webp_bytes": 343908
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+      "object_identifier": "2014.22.a",
+      "date": "c. 1410–20",
+      "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+      "record_url": "https://clevelandart.org/art/2014.22.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2014-22-a-set",
+        "name": "Shepherds Annunciation floral ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4275,
+      "height": 5834
+    },
+    "master_longest_dimension_cap": 1549,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Wide red curling flower with a small blue and gray crown. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "blue",
+      "gray",
+      "gold"
+    ],
+    "composition": "standalone",
+    "name": "broad-red-flower-with-blue-and-gray-crown",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/broad-red-flower-with-blue-and-gray-crown.png",
+    "webp": "webp/broad-red-flower-with-blue-and-gray-crown.webp",
+    "width": 1151,
+    "height": 887,
+    "png_bytes": 1316673,
+    "webp_bytes": 966816,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/broad-red-flower-with-blue-and-gray-crown.png",
+        "webp": "webp/128/broad-red-flower-with-blue-and-gray-crown.webp",
+        "width": 128,
+        "height": 99,
+        "png_bytes": 23697,
+        "webp_bytes": 21178
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/broad-red-flower-with-blue-and-gray-crown.png",
+        "webp": "webp/256/broad-red-flower-with-blue-and-gray-crown.webp",
+        "width": 256,
+        "height": 197,
+        "png_bytes": 82406,
+        "webp_bytes": 62088
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/broad-red-flower-with-blue-and-gray-crown.png",
+        "webp": "webp/512/broad-red-flower-with-blue-and-gray-crown.webp",
+        "width": 512,
+        "height": 395,
+        "png_bytes": 292315,
+        "webp_bytes": 218224
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/broad-red-flower-with-blue-and-gray-crown.png",
+        "webp": "webp/768/broad-red-flower-with-blue-and-gray-crown.webp",
+        "width": 768,
+        "height": 592,
+        "png_bytes": 626091,
+        "webp_bytes": 466480
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 1151,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An angel announces to four shepherds with a dog and two sheep, in a continuous night-sky and green landscape miniature with its original arched gilt frame. Part of the Shepherds Annunciation floral ornaments set.",
+    "categories": [
+      "humans",
+      "animals"
+    ],
+    "subjects": [
+      "angel",
+      "shepherd",
+      "dog",
+      "sheep",
+      "scroll",
+      "cloud",
+      "landscape",
+      "night",
+      "announcement"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "green",
+      "red",
+      "gold",
+      "white",
+      "gray",
+      "brown"
+    ],
+    "composition": "framed-scene",
+    "name": "complete-annunciation-to-the-shepherds-with-angel-and-night-landscape",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2014-22-a",
+    "png": "png/complete-annunciation-to-the-shepherds-with-angel-and-night-landscape.png",
+    "webp": "webp/complete-annunciation-to-the-shepherds-with-angel-and-night-landscape.webp",
+    "width": 2454,
+    "height": 2930,
+    "png_bytes": 13667048,
+    "webp_bytes": 8992542,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/complete-annunciation-to-the-shepherds-with-angel-and-night-landscape.png",
+        "webp": "webp/128/complete-annunciation-to-the-shepherds-with-angel-and-night-landscape.webp",
+        "width": 107,
+        "height": 128,
+        "png_bytes": 32667,
+        "webp_bytes": 25730
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/complete-annunciation-to-the-shepherds-with-angel-and-night-landscape.png",
+        "webp": "webp/256/complete-annunciation-to-the-shepherds-with-angel-and-night-landscape.webp",
+        "width": 214,
+        "height": 256,
+        "png_bytes": 121314,
+        "webp_bytes": 89518
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/complete-annunciation-to-the-shepherds-with-angel-and-night-landscape.png",
+        "webp": "webp/512/complete-annunciation-to-the-shepherds-with-angel-and-night-landscape.webp",
+        "width": 429,
+        "height": 512,
+        "png_bytes": 462586,
+        "webp_bytes": 332964
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/complete-annunciation-to-the-shepherds-with-angel-and-night-landscape.png",
+        "webp": "webp/768/complete-annunciation-to-the-shepherds-with-angel-and-night-landscape.webp",
+        "width": 643,
+        "height": 768,
+        "png_bytes": 1019629,
+        "webp_bytes": 720922
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+      "object_identifier": "2014.22.a",
+      "date": "c. 1410–20",
+      "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+      "record_url": "https://clevelandart.org/art/2014.22.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The original connected night-sky and shepherd landscape scene is retained whole, with all intrinsic painted surfaces opaque. The individual angel group and contacting shepherd-and-animal group are also supplied separately. Only exterior manuscript paper and neighboring marginal plants are removed. The original miniature frame belongs to this whole scene; it is not a newly generated repeat or frame atlas. Original scan pixels and proportions, without upscale.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2014-22-a-set",
+        "name": "Shepherds Annunciation floral ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4275,
+      "height": 5834
+    },
+    "master_longest_dimension_cap": 2930,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two adults sharing a goblet while bathing together in a brown wooden tub. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "couple",
+      "goblet",
+      "bathtub"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "couple-sharing-goblet-in-wooden-bathtub",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-a",
+    "png": "png/couple-sharing-goblet-in-wooden-bathtub.png",
+    "webp": "webp/couple-sharing-goblet-in-wooden-bathtub.webp",
+    "width": 697,
+    "height": 629,
+    "png_bytes": 688264,
+    "webp_bytes": 454328,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/couple-sharing-goblet-in-wooden-bathtub.png",
+        "webp": "webp/128/couple-sharing-goblet-in-wooden-bathtub.webp",
+        "width": 128,
+        "height": 116,
+        "png_bytes": 31998,
+        "webp_bytes": 23554
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/couple-sharing-goblet-in-wooden-bathtub.png",
+        "webp": "webp/256/couple-sharing-goblet-in-wooden-bathtub.webp",
+        "width": 256,
+        "height": 231,
+        "png_bytes": 110294,
+        "webp_bytes": 78924
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/couple-sharing-goblet-in-wooden-bathtub.png",
+        "webp": "webp/512/couple-sharing-goblet-in-wooden-bathtub.webp",
+        "width": 512,
+        "height": 462,
+        "png_bytes": 393996,
+        "webp_bytes": 281162
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)",
+      "object_identifier": "2011.67.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto) (cma-2011-67-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5106,
+      "height": 6384
+    },
+    "master_longest_dimension_cap": 697,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two crossed curved green leaves with pale painted veins. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "crossed-horizontal-green-leaf-pair",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/crossed-horizontal-green-leaf-pair.png",
+    "webp": "webp/crossed-horizontal-green-leaf-pair.webp",
+    "width": 824,
+    "height": 298,
+    "png_bytes": 276613,
+    "webp_bytes": 198728,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crossed-horizontal-green-leaf-pair.png",
+        "webp": "webp/128/crossed-horizontal-green-leaf-pair.webp",
+        "width": 128,
+        "height": 46,
+        "png_bytes": 10110,
+        "webp_bytes": 8386
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crossed-horizontal-green-leaf-pair.png",
+        "webp": "webp/256/crossed-horizontal-green-leaf-pair.webp",
+        "width": 256,
+        "height": 93,
+        "png_bytes": 33392,
+        "webp_bytes": 26190
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crossed-horizontal-green-leaf-pair.png",
+        "webp": "webp/512/crossed-horizontal-green-leaf-pair.webp",
+        "width": 512,
+        "height": 185,
+        "png_bytes": 115947,
+        "webp_bytes": 85480
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crossed-horizontal-green-leaf-pair.png",
+        "webp": "webp/768/crossed-horizontal-green-leaf-pair.webp",
+        "width": 768,
+        "height": 278,
+        "png_bytes": 245634,
+        "webp_bytes": 180512
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 824,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A crouching gray cat with golden eyes, a long furry tail and small prey at its lowered mouth. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "animals"
+    ],
+    "subjects": [
+      "cat",
+      "prey"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "black",
+      "gold",
+      "green"
+    ],
+    "composition": "single-figure",
+    "name": "crouching-gray-cat",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-a",
+    "png": "png/crouching-gray-cat.png",
+    "webp": "webp/crouching-gray-cat.webp",
+    "width": 1692,
+    "height": 653,
+    "png_bytes": 1767478,
+    "webp_bytes": 1296934,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crouching-gray-cat.png",
+        "webp": "webp/128/crouching-gray-cat.webp",
+        "width": 128,
+        "height": 49,
+        "png_bytes": 13608,
+        "webp_bytes": 10780
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crouching-gray-cat.png",
+        "webp": "webp/256/crouching-gray-cat.webp",
+        "width": 256,
+        "height": 99,
+        "png_bytes": 50913,
+        "webp_bytes": 39258
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crouching-gray-cat.png",
+        "webp": "webp/512/crouching-gray-cat.webp",
+        "width": 512,
+        "height": 198,
+        "png_bytes": 190020,
+        "webp_bytes": 139996
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crouching-gray-cat.png",
+        "webp": "webp/768/crouching-gray-cat.webp",
+        "width": 768,
+        "height": 296,
+        "png_bytes": 408561,
+        "webp_bytes": 298734
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)",
+      "object_identifier": "2011.67.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto) (cma-2011-67-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5106,
+      "height": 6384
+    },
+    "master_longest_dimension_cap": 1692,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two embracing nude adults with curly brown hair and raised clasped hands. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "couple",
+      "embrace"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "cream",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "embracing-nude-couple-with-raised-clasped-hands",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-a",
+    "png": "png/embracing-nude-couple-with-raised-clasped-hands.png",
+    "webp": "webp/embracing-nude-couple-with-raised-clasped-hands.webp",
+    "width": 889,
+    "height": 865,
+    "png_bytes": 884614,
+    "webp_bytes": 586652,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/embracing-nude-couple-with-raised-clasped-hands.png",
+        "webp": "webp/128/embracing-nude-couple-with-raised-clasped-hands.webp",
+        "width": 128,
+        "height": 125,
+        "png_bytes": 27914,
+        "webp_bytes": 20632
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/embracing-nude-couple-with-raised-clasped-hands.png",
+        "webp": "webp/256/embracing-nude-couple-with-raised-clasped-hands.webp",
+        "width": 256,
+        "height": 249,
+        "png_bytes": 92289,
+        "webp_bytes": 66408
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/embracing-nude-couple-with-raised-clasped-hands.png",
+        "webp": "webp/512/embracing-nude-couple-with-raised-clasped-hands.webp",
+        "width": 512,
+        "height": 498,
+        "png_bytes": 324459,
+        "webp_bytes": 227948
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/embracing-nude-couple-with-raised-clasped-hands.png",
+        "webp": "webp/768/embracing-nude-couple-with-raised-clasped-hands.webp",
+        "width": 768,
+        "height": 747,
+        "png_bytes": 676896,
+        "webp_bytes": 467196
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)",
+      "object_identifier": "2011.67.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto) (cma-2011-67-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5106,
+      "height": 6384
+    },
+    "master_longest_dimension_cap": 889,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Four contacting shepherds with a raised white dog and two grazing sheep. Part of the Shepherds Annunciation floral ornaments set.",
+    "categories": [
+      "humans",
+      "animals"
+    ],
+    "subjects": [
+      "shepherd",
+      "dog",
+      "sheep",
+      "staff"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "blue",
+      "purple",
+      "cream",
+      "gray",
+      "tan"
+    ],
+    "composition": "multiple-figures",
+    "name": "four-contacting-shepherds-with-dog-and-two-sheep",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2014-22-a",
+    "png": "png/four-contacting-shepherds-with-dog-and-two-sheep.png",
+    "webp": "webp/four-contacting-shepherds-with-dog-and-two-sheep.webp",
+    "width": 1376,
+    "height": 1106,
+    "png_bytes": 2238905,
+    "webp_bytes": 1608686,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/four-contacting-shepherds-with-dog-and-two-sheep.png",
+        "webp": "webp/128/four-contacting-shepherds-with-dog-and-two-sheep.webp",
+        "width": 128,
+        "height": 103,
+        "png_bytes": 30109,
+        "webp_bytes": 24310
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/four-contacting-shepherds-with-dog-and-two-sheep.png",
+        "webp": "webp/256/four-contacting-shepherds-with-dog-and-two-sheep.webp",
+        "width": 256,
+        "height": 206,
+        "png_bytes": 102711,
+        "webp_bytes": 77612
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/four-contacting-shepherds-with-dog-and-two-sheep.png",
+        "webp": "webp/512/four-contacting-shepherds-with-dog-and-two-sheep.webp",
+        "width": 512,
+        "height": 412,
+        "png_bytes": 362572,
+        "webp_bytes": 266114
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/four-contacting-shepherds-with-dog-and-two-sheep.png",
+        "webp": "webp/768/four-contacting-shepherds-with-dog-and-two-sheep.webp",
+        "width": 768,
+        "height": 617,
+        "png_bytes": 774542,
+        "webp_bytes": 563214
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Annunciation to the Shepherds (recto)",
+      "object_identifier": "2014.22.a",
+      "date": "c. 1410–20",
+      "artist": "Boethius Illuminator (Flemish, active c. 1414–20)",
+      "record_url": "https://clevelandart.org/art/2014.22.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "93f71d8b2b489def6609a50b5f266d8ca9d7e88c83cf567c70d38901ce93f470",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2014.22.a/2014.22.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cma-2014-22-a-set",
+        "name": "Shepherds Annunciation floral ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4275,
+      "height": 5834
+    },
+    "master_longest_dimension_cap": 1376,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small gray metal water jug with a round belly, narrow neck, side handle and broad low foot. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "jug",
+      "handle"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "blue",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "gray-metal-water-jug-with-small-foot",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-a",
+    "png": "png/gray-metal-water-jug-with-small-foot.png",
+    "webp": "webp/gray-metal-water-jug-with-small-foot.webp",
+    "width": 243,
+    "height": 208,
+    "png_bytes": 68902,
+    "webp_bytes": 49466,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/gray-metal-water-jug-with-small-foot.png",
+        "webp": "webp/128/gray-metal-water-jug-with-small-foot.webp",
+        "width": 128,
+        "height": 110,
+        "png_bytes": 22304,
+        "webp_bytes": 16502
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)",
+      "object_identifier": "2011.67.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto) (cma-2011-67-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5106,
+      "height": 6384
+    },
+    "master_longest_dimension_cap": 243,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A red hanging bud with curled green sepals and long horizontal leafy stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "hanging-red-bud-on-long-horizontal-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/hanging-red-bud-on-long-horizontal-stem.png",
+    "webp": "webp/hanging-red-bud-on-long-horizontal-stem.webp",
+    "width": 1039,
+    "height": 338,
+    "png_bytes": 419573,
+    "webp_bytes": 310034,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/hanging-red-bud-on-long-horizontal-stem.png",
+        "webp": "webp/128/hanging-red-bud-on-long-horizontal-stem.webp",
+        "width": 128,
+        "height": 42,
+        "png_bytes": 9701,
+        "webp_bytes": 8400
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/hanging-red-bud-on-long-horizontal-stem.png",
+        "webp": "webp/256/hanging-red-bud-on-long-horizontal-stem.webp",
+        "width": 256,
+        "height": 83,
+        "png_bytes": 31484,
+        "webp_bytes": 25280
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/hanging-red-bud-on-long-horizontal-stem.png",
+        "webp": "webp/512/hanging-red-bud-on-long-horizontal-stem.webp",
+        "width": 512,
+        "height": 167,
+        "png_bytes": 111077,
+        "webp_bytes": 85230
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/hanging-red-bud-on-long-horizontal-stem.png",
+        "webp": "webp/768/hanging-red-bud-on-long-horizontal-stem.webp",
+        "width": 768,
+        "height": 250,
+        "png_bytes": 237157,
+        "webp_bytes": 180196
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 1039,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Horizontal red and blue bud on a long green stem with two leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "horizontal-red-and-blue-bud-with-two-leaves",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/horizontal-red-and-blue-bud-with-two-leaves.png",
+    "webp": "webp/horizontal-red-and-blue-bud-with-two-leaves.webp",
+    "width": 1031,
+    "height": 401,
+    "png_bytes": 448619,
+    "webp_bytes": 327760,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/horizontal-red-and-blue-bud-with-two-leaves.png",
+        "webp": "webp/128/horizontal-red-and-blue-bud-with-two-leaves.webp",
+        "width": 128,
+        "height": 50,
+        "png_bytes": 10460,
+        "webp_bytes": 8742
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/horizontal-red-and-blue-bud-with-two-leaves.png",
+        "webp": "webp/256/horizontal-red-and-blue-bud-with-two-leaves.webp",
+        "width": 256,
+        "height": 100,
+        "png_bytes": 34367,
+        "webp_bytes": 26986
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/horizontal-red-and-blue-bud-with-two-leaves.png",
+        "webp": "webp/512/horizontal-red-and-blue-bud-with-two-leaves.webp",
+        "width": 512,
+        "height": 199,
+        "png_bytes": 118838,
+        "webp_bytes": 90324
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/horizontal-red-and-blue-bud-with-two-leaves.png",
+        "webp": "webp/768/horizontal-red-and-blue-bud-with-two-leaves.webp",
+        "width": 768,
+        "height": 299,
+        "png_bytes": 257593,
+        "webp_bytes": 192948
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 1031,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Large downward blue bell-shaped flower with two long green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "large-hanging-blue-flower-with-long-green-leaves",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/large-hanging-blue-flower-with-long-green-leaves.png",
+    "webp": "webp/large-hanging-blue-flower-with-long-green-leaves.webp",
+    "width": 659,
+    "height": 2047,
+    "png_bytes": 1674364,
+    "webp_bytes": 1226920,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/large-hanging-blue-flower-with-long-green-leaves.png",
+        "webp": "webp/128/large-hanging-blue-flower-with-long-green-leaves.webp",
+        "width": 41,
+        "height": 128,
+        "png_bytes": 11551,
+        "webp_bytes": 10724
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/large-hanging-blue-flower-with-long-green-leaves.png",
+        "webp": "webp/256/large-hanging-blue-flower-with-long-green-leaves.webp",
+        "width": 82,
+        "height": 256,
+        "png_bytes": 37391,
+        "webp_bytes": 34754
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/large-hanging-blue-flower-with-long-green-leaves.png",
+        "webp": "webp/512/large-hanging-blue-flower-with-long-green-leaves.webp",
+        "width": 165,
+        "height": 512,
+        "png_bytes": 128945,
+        "webp_bytes": 101720
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/large-hanging-blue-flower-with-long-green-leaves.png",
+        "webp": "webp/768/large-hanging-blue-flower-with-long-green-leaves.webp",
+        "width": 247,
+        "height": 768,
+        "png_bytes": 269078,
+        "webp_bytes": 209068
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 2047,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Large red tulip with blue scalloped sepals, red side bud and two lobed green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "large-red-tulip-with-blue-sepals-and-side-bud",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/large-red-tulip-with-blue-sepals-and-side-bud.png",
+    "webp": "webp/large-red-tulip-with-blue-sepals-and-side-bud.webp",
+    "width": 763,
+    "height": 1927,
+    "png_bytes": 1678341,
+    "webp_bytes": 1205284,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/large-red-tulip-with-blue-sepals-and-side-bud.png",
+        "webp": "webp/128/large-red-tulip-with-blue-sepals-and-side-bud.webp",
+        "width": 51,
+        "height": 128,
+        "png_bytes": 13003,
+        "webp_bytes": 10592
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/large-red-tulip-with-blue-sepals-and-side-bud.png",
+        "webp": "webp/256/large-red-tulip-with-blue-sepals-and-side-bud.webp",
+        "width": 101,
+        "height": 256,
+        "png_bytes": 41838,
+        "webp_bytes": 32472
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/large-red-tulip-with-blue-sepals-and-side-bud.png",
+        "webp": "webp/512/large-red-tulip-with-blue-sepals-and-side-bud.webp",
+        "width": 203,
+        "height": 512,
+        "png_bytes": 143018,
+        "webp_bytes": 106732
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/large-red-tulip-with-blue-sepals-and-side-bud.png",
+        "webp": "webp/768/large-red-tulip-with-blue-sepals-and-side-bud.webp",
+        "width": 304,
+        "height": 768,
+        "png_bytes": 301207,
+        "webp_bytes": 222360
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 1927,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A mounted couple on a white horse, with a brown falcon perched on the raised rider’s hand. Part of the May Calendar floral ornaments set.",
+    "categories": [
+      "humans",
+      "animals"
+    ],
+    "subjects": [
+      "man",
+      "woman",
+      "horse",
+      "rider",
+      "rein",
+      "falcon",
+      "bird"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "white",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "mounted-couple-on-white-horse",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-65-a",
+    "png": "png/mounted-couple-on-white-horse.png",
+    "webp": "webp/mounted-couple-on-white-horse.webp",
+    "width": 1155,
+    "height": 1359,
+    "png_bytes": 1861361,
+    "webp_bytes": 1272024,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/mounted-couple-on-white-horse.png",
+        "webp": "webp/128/mounted-couple-on-white-horse.webp",
+        "width": 109,
+        "height": 128,
+        "png_bytes": 26416,
+        "webp_bytes": 20456
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/mounted-couple-on-white-horse.png",
+        "webp": "webp/256/mounted-couple-on-white-horse.webp",
+        "width": 218,
+        "height": 256,
+        "png_bytes": 89194,
+        "webp_bytes": 66764
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/mounted-couple-on-white-horse.png",
+        "webp": "webp/512/mounted-couple-on-white-horse.webp",
+        "width": 435,
+        "height": 512,
+        "png_bytes": 314381,
+        "webp_bytes": 226338
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/mounted-couple-on-white-horse.png",
+        "webp": "webp/768/mounted-couple-on-white-horse.webp",
+        "width": 653,
+        "height": 768,
+        "png_bytes": 664851,
+        "webp_bytes": 474790
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Book of Hours: Calendar Page for May (recto)",
+      "object_identifier": "2011.65.a",
+      "date": "c. 1510",
+      "record_url": "https://clevelandart.org/art/2011.65.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "9c05df87df5be107cc387fca4fbc7dc5795487b45243f46e82f9968f9e3a44dd",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.65.a/2011.65.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2011-65-a-set",
+        "name": "May Calendar floral ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5038,
+      "height": 7499
+    },
+    "master_longest_dimension_cap": 1359,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two pale yellow flowers on a branching green stem with curling leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "yellow",
+      "cream",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "paired-pale-yellow-flowers-on-green-leaf-scroll",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/paired-pale-yellow-flowers-on-green-leaf-scroll.png",
+    "webp": "webp/paired-pale-yellow-flowers-on-green-leaf-scroll.webp",
+    "width": 1352,
+    "height": 887,
+    "png_bytes": 1055208,
+    "webp_bytes": 771154,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/paired-pale-yellow-flowers-on-green-leaf-scroll.png",
+        "webp": "webp/128/paired-pale-yellow-flowers-on-green-leaf-scroll.webp",
+        "width": 128,
+        "height": 84,
+        "png_bytes": 16620,
+        "webp_bytes": 14254
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/paired-pale-yellow-flowers-on-green-leaf-scroll.png",
+        "webp": "webp/256/paired-pale-yellow-flowers-on-green-leaf-scroll.webp",
+        "width": 256,
+        "height": 168,
+        "png_bytes": 52450,
+        "webp_bytes": 40760
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/paired-pale-yellow-flowers-on-green-leaf-scroll.png",
+        "webp": "webp/512/paired-pale-yellow-flowers-on-green-leaf-scroll.webp",
+        "width": 512,
+        "height": 336,
+        "png_bytes": 175099,
+        "webp_bytes": 132950
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/paired-pale-yellow-flowers-on-green-leaf-scroll.png",
+        "webp": "webp/768/paired-pale-yellow-flowers-on-green-leaf-scroll.webp",
+        "width": 768,
+        "height": 504,
+        "png_bytes": 371129,
+        "webp_bytes": 276854
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 1352,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Walking peasant carrying a large woven basket and holding a staff. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "man",
+      "basket",
+      "staff"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "gray",
+      "blue",
+      "brown",
+      "green",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "peasant-carrying-large-wicker-basket",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/peasant-carrying-large-wicker-basket.png",
+    "webp": "webp/peasant-carrying-large-wicker-basket.webp",
+    "width": 916,
+    "height": 1205,
+    "png_bytes": 1670115,
+    "webp_bytes": 1173142,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/peasant-carrying-large-wicker-basket.png",
+        "webp": "webp/128/peasant-carrying-large-wicker-basket.webp",
+        "width": 97,
+        "height": 128,
+        "png_bytes": 27653,
+        "webp_bytes": 20898
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/peasant-carrying-large-wicker-basket.png",
+        "webp": "webp/256/peasant-carrying-large-wicker-basket.webp",
+        "width": 195,
+        "height": 256,
+        "png_bytes": 96555,
+        "webp_bytes": 70134
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/peasant-carrying-large-wicker-basket.png",
+        "webp": "webp/512/peasant-carrying-large-wicker-basket.webp",
+        "width": 389,
+        "height": 512,
+        "png_bytes": 339745,
+        "webp_bytes": 244984
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/peasant-carrying-large-wicker-basket.png",
+        "webp": "webp/768/peasant-carrying-large-wicker-basket.webp",
+        "width": 584,
+        "height": 768,
+        "png_bytes": 726136,
+        "webp_bytes": 523618
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 1205,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Round blue-capped red flower with two green leaves and slender stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "red-and-blue-round-flower-with-two-leaves",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/red-and-blue-round-flower-with-two-leaves.png",
+    "webp": "webp/red-and-blue-round-flower-with-two-leaves.webp",
+    "width": 372,
+    "height": 925,
+    "png_bytes": 392443,
+    "webp_bytes": 291350,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/red-and-blue-round-flower-with-two-leaves.png",
+        "webp": "webp/128/red-and-blue-round-flower-with-two-leaves.webp",
+        "width": 51,
+        "height": 128,
+        "png_bytes": 11146,
+        "webp_bytes": 9994
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/red-and-blue-round-flower-with-two-leaves.png",
+        "webp": "webp/256/red-and-blue-round-flower-with-two-leaves.webp",
+        "width": 103,
+        "height": 256,
+        "png_bytes": 37369,
+        "webp_bytes": 29934
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/red-and-blue-round-flower-with-two-leaves.png",
+        "webp": "webp/512/red-and-blue-round-flower-with-two-leaves.webp",
+        "width": 206,
+        "height": 512,
+        "png_bytes": 130653,
+        "webp_bytes": 100842
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/red-and-blue-round-flower-with-two-leaves.png",
+        "webp": "webp/768/red-and-blue-round-flower-with-two-leaves.webp",
+        "width": 309,
+        "height": 768,
+        "png_bytes": 277629,
+        "webp_bytes": 211540
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 925,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small red umbrella-shaped flower with green sepals and two green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "red-umbrella-flower-on-two-leaved-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/red-umbrella-flower-on-two-leaved-stem.png",
+    "webp": "webp/red-umbrella-flower-on-two-leaved-stem.webp",
+    "width": 402,
+    "height": 1141,
+    "png_bytes": 419971,
+    "webp_bytes": 303510,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/red-umbrella-flower-on-two-leaved-stem.png",
+        "webp": "webp/128/red-umbrella-flower-on-two-leaved-stem.webp",
+        "width": 45,
+        "height": 128,
+        "png_bytes": 8833,
+        "webp_bytes": 7896
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/red-umbrella-flower-on-two-leaved-stem.png",
+        "webp": "webp/256/red-umbrella-flower-on-two-leaved-stem.webp",
+        "width": 90,
+        "height": 256,
+        "png_bytes": 27978,
+        "webp_bytes": 22666
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/red-umbrella-flower-on-two-leaved-stem.png",
+        "webp": "webp/512/red-umbrella-flower-on-two-leaved-stem.webp",
+        "width": 180,
+        "height": 512,
+        "png_bytes": 94851,
+        "webp_bytes": 72882
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/red-umbrella-flower-on-two-leaved-stem.png",
+        "webp": "webp/768/red-umbrella-flower-on-two-leaved-stem.webp",
+        "width": 271,
+        "height": 768,
+        "png_bytes": 201399,
+        "webp_bytes": 151178
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 1141,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Seated embracing couple in blue and red clothes with long green-clad legs. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "couple",
+      "embrace"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "red",
+      "green",
+      "cream",
+      "brown"
+    ],
+    "composition": "standalone",
+    "name": "seated-embracing-couple-in-blue-red-and-green-clothes",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-a",
+    "png": "png/seated-embracing-couple-in-blue-red-and-green-clothes.png",
+    "webp": "webp/seated-embracing-couple-in-blue-red-and-green-clothes.webp",
+    "width": 909,
+    "height": 701,
+    "png_bytes": 736443,
+    "webp_bytes": 522144,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/seated-embracing-couple-in-blue-red-and-green-clothes.png",
+        "webp": "webp/128/seated-embracing-couple-in-blue-red-and-green-clothes.webp",
+        "width": 128,
+        "height": 99,
+        "png_bytes": 20650,
+        "webp_bytes": 16472
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/seated-embracing-couple-in-blue-red-and-green-clothes.png",
+        "webp": "webp/256/seated-embracing-couple-in-blue-red-and-green-clothes.webp",
+        "width": 256,
+        "height": 197,
+        "png_bytes": 70253,
+        "webp_bytes": 54212
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/seated-embracing-couple-in-blue-red-and-green-clothes.png",
+        "webp": "webp/512/seated-embracing-couple-in-blue-red-and-green-clothes.webp",
+        "width": 512,
+        "height": 395,
+        "png_bytes": 252187,
+        "webp_bytes": 182436
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/seated-embracing-couple-in-blue-red-and-green-clothes.png",
+        "webp": "webp/768/seated-embracing-couple-in-blue-red-and-green-clothes.webp",
+        "width": 768,
+        "height": 592,
+        "png_bytes": 530786,
+        "webp_bytes": 399550
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)",
+      "object_identifier": "2011.67.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto) (cma-2011-67-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5106,
+      "height": 6384
+    },
+    "master_longest_dimension_cap": 909,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Sideways red blue and gray flower with two large curled green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "sideways-red-blue-gray-flower-on-green-leaf-scroll",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/sideways-red-blue-gray-flower-on-green-leaf-scroll.png",
+    "webp": "webp/sideways-red-blue-gray-flower-on-green-leaf-scroll.webp",
+    "width": 1195,
+    "height": 830,
+    "png_bytes": 961053,
+    "webp_bytes": 702464,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/sideways-red-blue-gray-flower-on-green-leaf-scroll.png",
+        "webp": "webp/128/sideways-red-blue-gray-flower-on-green-leaf-scroll.webp",
+        "width": 128,
+        "height": 89,
+        "png_bytes": 18104,
+        "webp_bytes": 15264
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/sideways-red-blue-gray-flower-on-green-leaf-scroll.png",
+        "webp": "webp/256/sideways-red-blue-gray-flower-on-green-leaf-scroll.webp",
+        "width": 256,
+        "height": 178,
+        "png_bytes": 58536,
+        "webp_bytes": 44602
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/sideways-red-blue-gray-flower-on-green-leaf-scroll.png",
+        "webp": "webp/512/sideways-red-blue-gray-flower-on-green-leaf-scroll.webp",
+        "width": 512,
+        "height": 356,
+        "png_bytes": 199080,
+        "webp_bytes": 151282
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/sideways-red-blue-gray-flower-on-green-leaf-scroll.png",
+        "webp": "webp/768/sideways-red-blue-gray-flower-on-green-leaf-scroll.webp",
+        "width": 768,
+        "height": 533,
+        "png_bytes": 421792,
+        "webp_bytes": 319608
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 1195,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small red and gray hanging flower on a short curved green stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "red",
+      "gray",
+      "green"
+    ],
+    "composition": "standalone",
+    "name": "small-red-and-gray-hanging-flower-on-curved-stem",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-a",
+    "png": "png/small-red-and-gray-hanging-flower-on-curved-stem.png",
+    "webp": "webp/small-red-and-gray-hanging-flower-on-curved-stem.webp",
+    "width": 752,
+    "height": 388,
+    "png_bytes": 306587,
+    "webp_bytes": 223266,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-red-and-gray-hanging-flower-on-curved-stem.png",
+        "webp": "webp/128/small-red-and-gray-hanging-flower-on-curved-stem.webp",
+        "width": 128,
+        "height": 66,
+        "png_bytes": 11838,
+        "webp_bytes": 9798
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-red-and-gray-hanging-flower-on-curved-stem.png",
+        "webp": "webp/256/small-red-and-gray-hanging-flower-on-curved-stem.webp",
+        "width": 256,
+        "height": 132,
+        "png_bytes": 40381,
+        "webp_bytes": 32010
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/small-red-and-gray-hanging-flower-on-curved-stem.png",
+        "webp": "webp/512/small-red-and-gray-hanging-flower-on-curved-stem.webp",
+        "width": 512,
+        "height": 264,
+        "png_bytes": 147205,
+        "webp_bytes": 109648
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)",
+      "object_identifier": "2011.67.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto) (cma-2011-67-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5106,
+      "height": 6384
+    },
+    "master_longest_dimension_cap": 752,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Three couples seated, bathing and embracing in a garden beneath blue and rose painted arches. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "couple",
+      "garden",
+      "arch",
+      "bathtub"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "blue",
+      "pink",
+      "red",
+      "green",
+      "cream",
+      "brown"
+    ],
+    "composition": "framed-scene",
+    "name": "three-couples-in-garden-under-painted-arcade",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-a",
+    "png": "png/three-couples-in-garden-under-painted-arcade.png",
+    "webp": "webp/three-couples-in-garden-under-painted-arcade.webp",
+    "width": 3310,
+    "height": 981,
+    "png_bytes": 6285624,
+    "webp_bytes": 4346954,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/three-couples-in-garden-under-painted-arcade.png",
+        "webp": "webp/128/three-couples-in-garden-under-painted-arcade.webp",
+        "width": 128,
+        "height": 38,
+        "png_bytes": 13000,
+        "webp_bytes": 10726
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/three-couples-in-garden-under-painted-arcade.png",
+        "webp": "webp/256/three-couples-in-garden-under-painted-arcade.webp",
+        "width": 256,
+        "height": 76,
+        "png_bytes": 48804,
+        "webp_bytes": 38208
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/three-couples-in-garden-under-painted-arcade.png",
+        "webp": "webp/512/three-couples-in-garden-under-painted-arcade.webp",
+        "width": 512,
+        "height": 152,
+        "png_bytes": 185005,
+        "webp_bytes": 134176
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/three-couples-in-garden-under-painted-arcade.png",
+        "webp": "webp/768/three-couples-in-garden-under-painted-arcade.webp",
+        "width": 768,
+        "height": 228,
+        "png_bytes": 398570,
+        "webp_bytes": 286134
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto)",
+      "object_identifier": "2011.67.a",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.a",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "37aae11b5696dc2ef5fdf95a635b999cd0f544b06dbd8fc3344388f8b2a05643",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.a/2011.67.a_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-a-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Labors (recto) (cma-2011-67-a)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5106,
+      "height": 6384
+    },
+    "master_longest_dimension_cap": 3310,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "The complete original miniature of two facing half figures on shared gold ground, with a tan vertical band between them. The left man gestures with both hands; the right wears blue and red and holds a hand to his chest. Part of the Latin Bible Paul and foliate initials set.",
+    "categories": [
+      "humans"
+    ],
+    "subjects": [
+      "man",
+      "robe",
+      "hand",
+      "gold",
+      "band"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "gold",
+      "blue",
+      "tan",
+      "red",
+      "brown"
+    ],
+    "composition": "framed-scene",
+    "name": "two-facing-men-on-gold-with-central-tan-band",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-53",
+    "png": "png/two-facing-men-on-gold-with-central-tan-band.png",
+    "webp": "webp/two-facing-men-on-gold-with-central-tan-band.webp",
+    "width": 520,
+    "height": 495,
+    "png_bytes": 490718,
+    "webp_bytes": 337412,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/two-facing-men-on-gold-with-central-tan-band.png",
+        "webp": "webp/128/two-facing-men-on-gold-with-central-tan-band.webp",
+        "width": 128,
+        "height": 122,
+        "png_bytes": 38152,
+        "webp_bytes": 28668
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/two-facing-men-on-gold-with-central-tan-band.png",
+        "webp": "webp/256/two-facing-men-on-gold-with-central-tan-band.webp",
+        "width": 256,
+        "height": 244,
+        "png_bytes": 136399,
+        "webp_bytes": 96718
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/two-facing-men-on-gold-with-central-tan-band.png",
+        "webp": "webp/512/two-facing-men-on-gold-with-central-tan-band.webp",
+        "width": 512,
+        "height": 487,
+        "png_bytes": 474889,
+        "webp_bytes": 333688
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Latin Bible: Initial P: St. Paul with a Sword and a Book",
+      "object_identifier": "2011.53",
+      "date": "c. 1230–40",
+      "artist": "William de Brailes (English, active c. 1230)",
+      "record_url": "https://clevelandart.org/art/2011.53",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "339f458fcefdd83b3d639457e032e242affa25c3248b5f218791f7da5ab04fb2",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.53/2011.53_full.tif",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The complete original painted counter miniature is retained, with its actual gold/blue/tan background surfaces opaque and surrounding letter forms/writing removed. The separately supplied actors remain available. Source-visible truncated lower figures stay exactly as painted, with no invented legs or extended clothes. Native original pixels/proportions, no source upscale or vector simplification.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "cma-2011-53-set",
+        "name": "Latin Bible Paul and foliate initials"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5219,
+      "height": 7176
+    },
+    "master_longest_dimension_cap": 520,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two upright green leaves crossing at the short curved stem. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "upright-crossed-green-leaf-pair",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/upright-crossed-green-leaf-pair.png",
+    "webp": "webp/upright-crossed-green-leaf-pair.webp",
+    "width": 350,
+    "height": 1003,
+    "png_bytes": 345774,
+    "webp_bytes": 243462,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upright-crossed-green-leaf-pair.png",
+        "webp": "webp/128/upright-crossed-green-leaf-pair.webp",
+        "width": 45,
+        "height": 128,
+        "png_bytes": 9044,
+        "webp_bytes": 7778
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upright-crossed-green-leaf-pair.png",
+        "webp": "webp/256/upright-crossed-green-leaf-pair.webp",
+        "width": 89,
+        "height": 256,
+        "png_bytes": 28843,
+        "webp_bytes": 25582
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upright-crossed-green-leaf-pair.png",
+        "webp": "webp/512/upright-crossed-green-leaf-pair.webp",
+        "width": 179,
+        "height": 512,
+        "png_bytes": 100601,
+        "webp_bytes": 74518
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/upright-crossed-green-leaf-pair.png",
+        "webp": "webp/768/upright-crossed-green-leaf-pair.webp",
+        "width": 268,
+        "height": 768,
+        "png_bytes": 213120,
+        "webp_bytes": 154978
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 1003,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Pointed red bud with gray sepals and two small green leaves. Part of the Cleveland 1524 Psalter and Prayerbook set.",
+    "categories": [
+      "botanical",
+      "floral"
+    ],
+    "subjects": [
+      "flower",
+      "leaf",
+      "stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "green",
+      "red",
+      "blue",
+      "gray"
+    ],
+    "composition": "standalone",
+    "name": "upright-pointed-red-bud-with-gray-sepals",
+    "asset_type": "illustration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "cma-2011-67-b",
+    "png": "png/upright-pointed-red-bud-with-gray-sepals.png",
+    "webp": "webp/upright-pointed-red-bud-with-gray-sepals.webp",
+    "width": 405,
+    "height": 1018,
+    "png_bytes": 450763,
+    "webp_bytes": 332666,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/upright-pointed-red-bud-with-gray-sepals.png",
+        "webp": "webp/128/upright-pointed-red-bud-with-gray-sepals.webp",
+        "width": 51,
+        "height": 128,
+        "png_bytes": 11287,
+        "webp_bytes": 9522
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/upright-pointed-red-bud-with-gray-sepals.png",
+        "webp": "webp/256/upright-pointed-red-bud-with-gray-sepals.webp",
+        "width": 102,
+        "height": 256,
+        "png_bytes": 36342,
+        "webp_bytes": 28464
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/upright-pointed-red-bud-with-gray-sepals.png",
+        "webp": "webp/512/upright-pointed-red-bud-with-gray-sepals.webp",
+        "width": 204,
+        "height": 512,
+        "png_bytes": 124389,
+        "webp_bytes": 94366
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/upright-pointed-red-bud-with-gray-sepals.png",
+        "webp": "webp/768/upright-pointed-red-bud-with-gray-sepals.webp",
+        "width": 306,
+        "height": 768,
+        "png_bytes": 266385,
+        "webp_bytes": 200612
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Cleveland Museum of Art",
+      "title": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso)",
+      "object_identifier": "2011.67.b",
+      "date": "c. 1524",
+      "record_url": "https://clevelandart.org/art/2011.67.b",
+      "image_rights": "CC0; share_license_status=CC0",
+      "rights_url": "https://www.clevelandart.org/open-access",
+      "source_sha256": "824c0c283ffc4ee770b87ed2a96c16be02b5b3c119b132bdc557eaf5abfad098",
+      "image_url": "https://openaccess-cdn.clevelandart.org/2011.67.b/2011.67.b_full.tif",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "cleveland-1524-psalter-prayerbook",
+        "name": "Cleveland 1524 Psalter and Prayerbook"
+      },
+      {
+        "id": "cma-2011-67-b-set",
+        "name": "Leaf from a Psalter and Prayerbook: Calendar Page with Peasant (verso) (cma-2011-67-b)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 5065,
+      "height": 6349
+    },
+    "master_longest_dimension_cap": 1018,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
